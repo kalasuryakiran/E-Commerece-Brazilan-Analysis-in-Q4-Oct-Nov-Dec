@@ -1,0 +1,28 @@
+
+
+
+📁 Dataset Not Included in Repository
+
+Due to the large size of the original Olist e-commerce dataset (~50MB+ across multiple CSVs), it is not hosted directly in this GitHub repository to avoid bloating the version control system and maintain faster cloning speed.
+
+✅ The dataset can be freely accessed and downloaded from the following official source:
+
+🔗 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+📦 Dataset Source: Olist Brazil E-commerce Public Dataset (via Kaggle)
+📅 Filtered Period Used in Project: Q4 (October to December)
+📂 Key Files Used:
+- olist_orders_dataset.csv
+- olist_order_items_dataset.csv
+- olist_products_dataset.csv
+- product_category_name_translation.csv
+- olist_order_reviews_dataset.csv
+- olist_customers_dataset.csv
+
+📝 If you want to replicate or test the project locally:
+1. Download the dataset from the above link.
+2. Place the CSV files in the appropriate folder (e.g., `/data`).
+3. Open the Jupyter notebook or run the Power BI `.pbix` file with the loaded data.
+
+For any issues with loading the dataset, refer to the README instructions.
+
