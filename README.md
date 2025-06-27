@@ -1,5 +1,6 @@
 
-Q4 E-commerce Power BI Analysis - Summary
+Q4 E-commerce Power BI Analysis
+
 A complete data analytics project analyzing Q4 (October–December) performance of the Brazilian e-commerce market using the Olist public dataset.
 The analysis includes data cleaning, trend analysis, KPIs, and dashboard building using Excel, SQL, Python, and Power BI.
 
@@ -42,7 +43,7 @@ A complete data analytics project analyzing Q4 (October–December) performance 
 
 ---
 
-## ✅ Overall Project Summary
+ ✅ Overall Project Summary
 
 - 🔍 Focused on Q4 performance (Oct, Nov, Dec)  
 - 📦 Analyzed sales, returns, revenue trends, and customer behavior  
@@ -51,7 +52,7 @@ A complete data analytics project analyzing Q4 (October–December) performance 
 
 ---
 
-## 📘 Excel Tasks Completed
+ 📘 Excel Tasks Completed
 
 - ✅ Cleaned raw CSVs using filters and formulas  
 - ✅ Filtered orders for Q4 (Oct–Dec only)  
@@ -62,7 +63,7 @@ A complete data analytics project analyzing Q4 (October–December) performance 
 
 ---
 
-## 🧾 SQL Tasks Completed
+ 🧾 SQL Tasks Completed
 
 - ✅ Created tables from original dataset  
 - ✅ Queried total Q4 orders using month filter  
@@ -76,7 +77,7 @@ A complete data analytics project analyzing Q4 (October–December) performance 
 
 ---
 
-## 🐍 Python EDA Tasks Completed
+ 🐍 Python EDA Tasks Completed
 
 - ✅ Imported Excel or CSV cleaned datasets  
 - ✅ Grouped Q4 orders by month and year  
@@ -86,7 +87,7 @@ A complete data analytics project analyzing Q4 (October–December) performance 
 
 ---
 
-## 📊 Power BI Visuals Summary
+ 📊 Power BI Visuals Summary
 
 - ✅ Total Revenue (Card)  
 - ✅ Total Orders (Card)  
@@ -106,7 +107,7 @@ A complete data analytics project analyzing Q4 (October–December) performance 
 ---
 
 Final Output:-
-## 📊 Power BI Dashboard Preview
+ 📊 Power BI Dashboard Preview
 
 ![Q4 Dashboard](images/Q4%20E-Commerece%20Brazilian%20Anlaysis%20report.png)
 
@@ -117,5 +118,11 @@ Final Output:-
 - Power BI Report: Q4 E-Commerece Brazilian Anlaysis report.pbix
 - Images: PNG exports of dashboard and charts
 
-🔹 Note:
-Original dataset not included due to size limit. Download from Kaggle and place under `Original Datasets/`.
+🔹 🛠 Tools & Technologies Used
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
