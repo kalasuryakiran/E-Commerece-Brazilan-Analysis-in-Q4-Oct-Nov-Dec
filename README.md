@@ -17,7 +17,7 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 
 Q4-Ecommerce-Product-Analysis/
-│
+|
 ├── 📁 Original Datasets/
 │   └── (CSV files from Kaggle)
 │
@@ -34,8 +34,8 @@ Q4-Ecommerce-Product-Analysis/
 │   └── Q4 E-Commerece Brazilian Anlaysis report.pbix
 │
 ├── 📁 Images/
-│   ├── dashboard_screenshot.png
-│   └── other_chart_outputs.png
+    ├── dashboard_screenshot.png
+    └── other_chart_outputs.png
 
  
 A complete data analytics project analyzing Q4 (October–December) performance of the Brazilian e-commerce market using the Olist public dataset. The analysis includes data cleaning, trend analysis, KPIs, and dashboard building using Excel, SQL, Python, and Power BI.
